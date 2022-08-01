@@ -1,28 +1,31 @@
 body{
-	background-color: silver;
+	background-color: #4988BF;
 
 }
 
 h1{
 	font-size: 48px;
-	font-family: Arial;
-	
+	font-family: Arial;	
 	text-align: center;
+	color: #352163;
 }
 
 h3{
 	font-size: 32px;
 	font-family: Ariel;
-	text-align: center;
+	text-align: center;	
+	color: #3FC932;
 }
 
 p{
 	font-family: Arial;
 	font-size: 16px;
 	color: blue;
-	text-align: center;	
+	text-align: center;
+	color: #CA2EA3;	
 }
 
-h1, h3, p{
-	color: #088A08;
+span{
+	color: #C92E44;
 }
+
